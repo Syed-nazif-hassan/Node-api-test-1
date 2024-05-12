@@ -1,8 +1,8 @@
 # A Simple Node.js API for Posting and Retrieving Content
 
-## Built for learning and practicing JavaScript development.
+## To learn and practice JavaScript development.
 
-I built this api to practice and learn Javascript development. This straightforward Node.js API allows users to post content by sending a POST request to http://localhost:3000/post, with the post data structured in json format as follows:
+This straightforward Node.js API allows users to post content by sending a POST request to http://localhost:3000/post, with the post data structured in json format as follows:
 
 ![Code Snippet](image/code_snippet.png)
 
